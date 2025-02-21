@@ -9,4 +9,4 @@ pip install -r requirements.txt
 2.
 run  mongodb
 3.
-uvicorn auth:app --reload
+uvicorn main:app --reload
